@@ -14,5 +14,5 @@
 - Delete the main.exe file
 - Open a terminal in the project's directory
 - run the following commands (g++ version 5.1.0 or later required):
-    $: g++ main.c -o main
-    $: ./main
+--$: g++ main.c -o main
+--$: ./main
